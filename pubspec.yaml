@@ -18,6 +18,7 @@ dependencies:
   percent_indicator: ^3.0.1
   cupertino_icons: ^1.0.2
   easy_splash_screen:
+  http: ^0.13.5
 
 dev_dependencies:
   flutter_test:
